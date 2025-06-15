@@ -3,56 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\titim\\source\\repos\\Project11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|c:\\users\\titim\\source\\repos\\project11\\project11\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|c:\\users\\titim\\source\\repos\\project11\\project11\\views\\manageproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\manageproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|c:\\users\\titim\\source\\repos\\project11\\project11\\models\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\models\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\manageproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\manageproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|c:\\users\\titim\\source\\repos\\project11\\project11\\views\\sellerproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellerproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|c:\\users\\titim\\source\\repos\\project11\\project11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\sellerproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellerproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\buyerproducttypescontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\buyerproducttypescontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\migrations\\202506102003500_add-productname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\migrations\\202506102003500_add-productname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\buyercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\buyercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|c:\\users\\titim\\source\\repos\\project11\\project11\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\sellercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\buyerproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\buyerproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\buyercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\buyercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\sellercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\index.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\index.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\sellersalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellersalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\sellerproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellerproducttypescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\sellercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\purchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\purchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\profilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\profilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\manageproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\manageproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\sellersalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\sellersalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|C:\\Users\\titim\\source\\repos\\Project11\\project11\\views\\profilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|Project11\\Project11.csproj|solutionrelative:project11\\views\\profilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,85 +110,261 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\Index.cs",
-              "RelativeDocumentMoniker": "Project11\\Views\\Index.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\Index.cs",
-              "RelativeToolTip": "Project11\\Views\\Index.cs",
-              "ViewState": "AgIAACQBAAAAAAAAAADwvzUBAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:26:12.184Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sell.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\Sell.cs",
-              "RelativeDocumentMoniker": "Project11\\Models\\Sell.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\Sell.cs",
-              "RelativeToolTip": "Project11\\Models\\Sell.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:07:49.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductType.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\ProductType.cs",
-              "RelativeDocumentMoniker": "Project11\\Models\\ProductType.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\ProductType.cs",
-              "RelativeToolTip": "Project11\\Models\\ProductType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ManageProductTypesControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageProductTypesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ManageProductTypesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageProductTypesControl.cs*",
+              "RelativeToolTip": "Project11\\Views\\ManageProductTypesControl.cs*",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAiwMoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:04:19.605Z",
+              "WhenOpened": "2025-06-11T06:43:59.863Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SellerProductsControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerProductsControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\SellerProductsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerProductsControl.cs",
+              "RelativeToolTip": "Project11\\Views\\SellerProductsControl.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:20:31.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuyerProductTypesControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\BuyerProductTypesControl.Designer.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\BuyerProductTypesControl.Designer.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\BuyerProductTypesControl.Designer.cs",
+              "RelativeToolTip": "Project11\\Views\\BuyerProductTypesControl.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:16:56.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202506102003500_add-productName.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Migrations\\202506102003500_add-productName.cs",
+              "RelativeDocumentMoniker": "Project11\\Migrations\\202506102003500_add-productName.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Migrations\\202506102003500_add-productName.cs",
+              "RelativeToolTip": "Project11\\Migrations\\202506102003500_add-productName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:03:55.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuyerProductTypesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\BuyerProductTypesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\BuyerProductTypesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\BuyerProductTypesControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\BuyerProductTypesControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:02:48.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Project11\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\Product.cs",
+              "RelativeToolTip": "Project11\\Models\\Product.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:00:48.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SettingsControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\SettingsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SettingsControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\SettingsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:09:53.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ProfileControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ProfileControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ProfileControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\ProfileControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:07:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageUsersControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageUsersControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ManageUsersControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageUsersControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\ManageUsersControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:06:14.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageProductsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageProductsControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ManageProductsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageProductsControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\ManageProductsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:05:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SellerProductTypesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerProductTypesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\SellerProductTypesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerProductTypesControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\SellerProductTypesControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:51:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageSalesControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageSalesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ManageSalesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageSalesControl.cs",
+              "RelativeToolTip": "Project11\\Views\\ManageSalesControl.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAewJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:27:38.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageSalesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageSalesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ManageSalesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageSalesControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\ManageSalesControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:27:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SellerSalesControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerSalesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\SellerSalesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerSalesControl.cs",
+              "RelativeToolTip": "Project11\\Views\\SellerSalesControl.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAywGcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:24:48.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SellerControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\SellerControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\SellerControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:57:35.372Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Project11\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\Product.cs*",
-              "RelativeToolTip": "Project11\\Models\\Product.cs*",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAowHsAAAABAAAAAAAAAA==",
+              "Title": "SellerProductsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerProductsControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\SellerProductsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerProductsControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\SellerProductsControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:56:30.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T13:57:32.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SellerSalesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerSalesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\SellerSalesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerSalesControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\SellerSalesControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:57:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfileControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ProfileControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ProfileControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ProfileControl.cs",
+              "RelativeToolTip": "Project11\\Views\\ProfileControl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:50:58.948Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\App.config",
-              "RelativeDocumentMoniker": "Project11\\App.config",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\App.config",
-              "RelativeToolTip": "Project11\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-02T07:15:45.42Z",
-              "EditorCaption": ""
+              "Title": "BuyerControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\BuyerControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\BuyerControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\BuyerControl.cs",
+              "RelativeToolTip": "Project11\\Views\\BuyerControl.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAWwDsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:34:55.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SellerControl.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerControl.cs",
-              "RelativeDocumentMoniker": "Project11\\Views\\SellerControl.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerControl.cs",
-              "RelativeToolTip": "Project11\\Views\\SellerControl.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAjwCoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "PurchaseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\PurchaseForm.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\PurchaseForm.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\PurchaseForm.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\PurchaseForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:43:24.657Z"
+              "WhenOpened": "2025-06-06T05:49:22.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ReportsControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ReportsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ReportsControl.cs [Design]",
+              "RelativeToolTip": "Project11\\Views\\ReportsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:59:07.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageProductTypesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageProductTypesControl.cs",
+              "RelativeDocumentMoniker": "Project11\\Views\\ManageProductTypesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\ManageProductTypesControl.cs [Design]*",
+              "RelativeToolTip": "Project11\\Views\\ManageProductTypesControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:26:53.86Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -151,80 +375,29 @@
               "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\BuyerControl.cs [Design]",
               "RelativeToolTip": "Project11\\Views\\BuyerControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:38:00.475Z"
+              "WhenOpened": "2025-06-05T15:21:59.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SellerControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerControl.cs",
-              "RelativeDocumentMoniker": "Project11\\Views\\SellerControl.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\SellerControl.cs [Design]",
-              "RelativeToolTip": "Project11\\Views\\SellerControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:37:45.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AdminControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\AdminControl.cs",
               "RelativeDocumentMoniker": "Project11\\Views\\AdminControl.cs",
               "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\AdminControl.cs [Design]",
               "RelativeToolTip": "Project11\\Views\\AdminControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:37:14.772Z"
+              "WhenOpened": "2025-06-05T15:21:48.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\Index.Designer.cs",
-              "RelativeDocumentMoniker": "Project11\\Views\\Index.Designer.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\Index.Designer.cs",
-              "RelativeToolTip": "Project11\\Views\\Index.Designer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:05:26.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProjectDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\ProjectDBContext.cs",
-              "RelativeDocumentMoniker": "Project11\\Models\\ProjectDBContext.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\ProjectDBContext.cs",
-              "RelativeToolTip": "Project11\\Models\\ProjectDBContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:01:02.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Project11\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Models\\User.cs",
-              "RelativeToolTip": "Project11\\Models\\User.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAswA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:38:42.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "Index.cs [Design]",
               "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\Index.cs",
               "RelativeDocumentMoniker": "Project11\\Views\\Index.cs",
               "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\Project11\\Views\\Index.cs [Design]",
               "RelativeToolTip": "Project11\\Views\\Index.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:31:55.063Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-01T19:31:55.063Z"
             }
           ]
         }

@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\titim\\source\\repos\\Project11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\models\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\models\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|c:\\users\\titim\\source\\repos\\project11\\gastrosoft\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\controllers\\sellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\controllers\\sellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\managesalescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\managesalescontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\managesalescontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\manageproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\manageproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\manageproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\manageproductscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\reportscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\reportscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|C:\\Users\\titim\\source\\repos\\Project11\\gastrosoft\\views\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41CF8E1-744B-4AD0-81F2-114949467D55}|GastroSoft\\GastroSoft.csproj|solutionrelative:gastrosoft\\views\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GastroSoft\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:00:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\Index.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\Index.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\Index.cs",
+              "RelativeToolTip": "GastroSoft\\Views\\Index.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:26:41.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\Index.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\Index.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\Index.cs [Design]",
+              "RelativeToolTip": "GastroSoft\\Views\\Index.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:26:22.105Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sell.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\Sell.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Models\\Sell.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\Sell.cs",
+              "RelativeToolTip": "GastroSoft\\Models\\Sell.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:20:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\User.cs",
+              "RelativeToolTip": "GastroSoft\\Models\\User.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:16:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\ProductType.cs",
+              "RelativeToolTip": "GastroSoft\\Models\\ProductType.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:01:31.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\Product.cs",
+              "RelativeToolTip": "GastroSoft\\Models\\Product.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:01:30.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\ProjectDBContext.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Models\\ProjectDBContext.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Models\\ProjectDBContext.cs",
+              "RelativeToolTip": "GastroSoft\\Models\\ProjectDBContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:00:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellController.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Controllers\\SellController.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Controllers\\SellController.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Controllers\\SellController.cs*",
+              "RelativeToolTip": "GastroSoft\\Controllers\\SellController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:57:18.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageSalesControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageSalesControl.Designer.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ManageSalesControl.Designer.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageSalesControl.Designer.cs",
+              "RelativeToolTip": "GastroSoft\\Views\\ManageSalesControl.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:13:00.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportsControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ReportsControl.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ReportsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ReportsControl.cs",
+              "RelativeToolTip": "GastroSoft\\Views\\ReportsControl.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAcwGUBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:12:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportsControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ReportsControl.Designer.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ReportsControl.Designer.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ReportsControl.Designer.cs",
+              "RelativeToolTip": "GastroSoft\\Views\\ReportsControl.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:38:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageProductsControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageProductsControl.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ManageProductsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageProductsControl.cs",
+              "RelativeToolTip": "GastroSoft\\Views\\ManageProductsControl.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:26:51.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageProductsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageProductsControl.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ManageProductsControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageProductsControl.cs [Design]",
+              "RelativeToolTip": "GastroSoft\\Views\\ManageProductsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:26:49.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageUsersControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageUsersControl.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ManageUsersControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageUsersControl.cs",
+              "RelativeToolTip": "GastroSoft\\Views\\ManageUsersControl.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:24:34.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageUsersControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageUsersControl.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ManageUsersControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageUsersControl.cs [Design]",
+              "RelativeToolTip": "GastroSoft\\Views\\ManageUsersControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:24:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageSalesControl.cs",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageSalesControl.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ManageSalesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageSalesControl.cs",
+              "RelativeToolTip": "GastroSoft\\Views\\ManageSalesControl.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:48:50.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageSalesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageSalesControl.cs",
+              "RelativeDocumentMoniker": "GastroSoft\\Views\\ManageSalesControl.cs",
+              "ToolTip": "C:\\Users\\titim\\source\\repos\\Project11\\GastroSoft\\Views\\ManageSalesControl.cs [Design]",
+              "RelativeToolTip": "GastroSoft\\Views\\ManageSalesControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:48:47.254Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
